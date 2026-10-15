@@ -1,0 +1,14 @@
+# Віртуальне середовище
+.venv/
+venv/
+env/
+
+# Кеш Python та лінтерів
+__pycache__/
+*.py[cod]
+*$py.class
+.ruff_cache/
+
+# Середовище розробки
+.vscode/
+.idea/

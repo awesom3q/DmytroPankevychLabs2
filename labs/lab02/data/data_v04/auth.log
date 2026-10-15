@@ -1,0 +1,20 @@
+Sep 27 08:10:00 server01 sshd[3969]: Accepted password for alice from 192.0.2.10 port 51222 ssh2
+Sep 27 09:15:00 server01 sshd[7272]: Accepted password for bob from 192.0.2.11 port 51222 ssh2
+Sep 27 10:20:00 server01 sshd[9832]: Accepted password for carol from 198.51.100.20 port 51222 ssh2
+Sep 27 14:00:00 server01 sshd[2750]: Failed password for admin from 203.0.113.77 port 53000 ssh2
+Sep 27 14:00:35 server01 sshd[2095]: Failed password for admin from 203.0.113.77 port 53001 ssh2
+Sep 27 14:01:10 server01 sshd[7176]: Failed password for admin from 203.0.113.77 port 53002 ssh2
+Sep 27 14:01:45 server01 sshd[6043]: Failed password for admin from 203.0.113.77 port 53003 ssh2
+Sep 27 14:02:20 server01 sshd[6385]: Failed password for admin from 203.0.113.77 port 53004 ssh2
+Sep 27 14:02:55 server01 sshd[6304]: Failed password for admin from 203.0.113.77 port 53005 ssh2
+Sep 27 14:03:30 server01 sshd[6764]: Failed password for admin from 203.0.113.77 port 53006 ssh2
+Sep 27 14:05:00 server01 sshd[1708]: Accepted password for admin from 203.0.113.77 port 53100 ssh2
+Sep 27 16:00:00 server01 sshd[6923]: Failed password for invalid user test from 198.51.100.88 port 54000 ssh2
+Sep 27 16:12:00 server01 sshd[2850]: Failed password for invalid user test from 198.51.100.88 port 54001 ssh2
+Sep 27 16:24:00 server01 sshd[8513]: Failed password for invalid user test from 198.51.100.88 port 54002 ssh2
+Sep 27 16:36:00 server01 sshd[5396]: Failed password for invalid user test from 198.51.100.88 port 54003 ssh2
+Sep 27 16:48:00 server01 sshd[8801]: Failed password for invalid user test from 198.51.100.88 port 54004 ssh2
+Sep 27 18:30:00 server01 sshd[9981]: Failed password for root from 192.0.2.55 port 55000 ssh2
+Sep 27 18:30:40 server01 sshd[7512]: Failed password for root from 192.0.2.55 port 55001 ssh2
+Sep 27 18:31:20 server01 sshd[1611]: Failed password for root from 192.0.2.55 port 55002 ssh2
+Sep 27 18:32:00 server01 sshd[9151]: Failed password for root from 192.0.2.55 port 55003 ssh2
